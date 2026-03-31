@@ -1,0 +1,13 @@
+# 🔒 SECURITY — These files will NEVER be uploaded to GitHub
+
+# Your secret credentials — NEVER upload this!
+.env
+
+# Tracks projects already seen — no need to share this
+seen_projects.json
+
+# Python junk files — not needed on GitHub
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
